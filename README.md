@@ -3,6 +3,8 @@
 ## Overview
 This project is a GUI-based calculator application developed using Python’s Tkinter library. It allows users to perform basic arithmetic operations through interactive buttons in a simple and attractive interface.
 
+![image](https://github.com/kothaharika5/Calculator-usiong-tkinter/blob/263365d19351535206a4901867100880f477421a/calculator.png)
+
 ## Features
 - Addition, subtraction, multiplication, and division  
 - Decimal number support  
